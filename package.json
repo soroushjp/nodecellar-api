@@ -1,0 +1,10 @@
+{
+	"name" : "wine-cellar",
+	"description": "Wine Cellar Application to learn how to make a REST API using Node.JS, Express, MongoDB",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "3.x",
+		"mongodb": "*"
+	}
+}
